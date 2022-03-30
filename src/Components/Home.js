@@ -48,9 +48,10 @@ const Home = () => {
       <div
         style={{
           backgroundColor: "lightgray",
+
           borderRadius: "10px",
-          marginLeft: "35rem",
-          marginRight: "35rem",
+          // marginLeft: "35rem",
+          // marginRight: "35rem",
 
           padding: "20px",
         }}
